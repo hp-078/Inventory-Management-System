@@ -1,0 +1,125 @@
+Product Name,Price,Category,Stock
+Laptop,750,Electronics,15
+Mouse,25,Accessories,50
+Keyboard,40,Accessories,35
+Monitor,200,Electronics,5
+Office Chair,120,Furniture,10
+Desk,300,Furniture,5
+Printer,180,Electronics,12
+Hard Drive,90,Storage,25
+Flash Drive,15,Storage,80
+Headphones,85,Accessories,30
+Router,110,Networking,18
+Smartphone,999,Electronics,25
+Tablet,450,Electronics,14
+Smartwatch,199,Electronics,22
+External SSD,130,Storage,40
+Projector,350,Electronics,6
+Air Conditioner,600,Home Appliances,8
+Washing Machine,700,Home Appliances,10
+Refrigerator,1200,Home Appliances,7
+Microwave,150,Home Appliances,20
+Electric Kettle,45,Home Appliances,50
+Toaster,60,Home Appliances,35
+Gaming Console,500,Electronics,18
+Smart TV,750,Electronics,12
+CCTV Camera,250,Security,20
+Fire Extinguisher,80,Security,15
+Door Lock,90,Security,25
+Electric Drill,130,Tools,18
+Screwdriver Set,40,Tools,50
+Hammer,25,Tools,60
+Toolbox,150,Tools,10
+Fitness Band,70,Electronics,30
+Treadmill,800,Fitness,5
+Dumbbells,50,Fitness,20
+Jump Rope,15,Fitness,40
+Yoga Mat,30,Fitness,35
+Resistance Bands,25,Fitness,45
+Bicycle,450,Fitness,12
+Helmet,70,Safety,25
+Safety Gloves,20,Safety,50
+Earplugs,10,Safety,100
+Power Bank,45,Accessories,40
+Wireless Charger,60,Accessories,25
+Bluetooth Speaker,100,Electronics,20
+VR Headset,300,Electronics,8
+Drone,750,Electronics,5
+USB Cable,10,Accessories,80
+Power Strip,25,Accessories,40
+Backpack,60,Travel,30
+Suitcase,150,Travel,12
+Travel Pillow,25,Travel,50
+Sleeping Bag,80,Travel,15
+Camping Tent,200,Travel,10
+Flashlight,40,Travel,25
+Binoculars,90,Travel,10
+Fishing Rod,100,Travel,15
+Cutting Board,35,Kitchen,25
+Knife Set,60,Kitchen,20
+Non-Stick Pan,50,Kitchen,30
+Dishwasher,700,Home Appliances,8
+Vacuum Cleaner,250,Home Appliances,12
+Blender,100,Home Appliances,25
+Rice Cooker,80,Home Appliances,20
+Pressure Cooker,120,Kitchen,15
+Coffee Maker,110,Kitchen,18
+Juicer,90,Kitchen,20
+Water Purifier,200,Home Appliances,10
+Air Fryer,180,Kitchen,12
+Electric Grill,160,Kitchen,10
+Lawn Mower,400,Garden,6
+Hedge Trimmer,150,Garden,10
+Garden Hose,50,Garden,20
+Sprinkler,60,Garden,15
+Plant Pots,20,Garden,30
+Soil Tester,40,Garden,10
+Solar Lights,35,Garden,25
+Batteries,20,Accessories,100
+LED Bulbs,15,Electronics,80
+Extension Cord,30,Accessories,50
+Wristwatch,120,Accessories,18
+Filing Cabinet,250,Furniture,10
+Bookshelf,180,Furniture,15
+Sofa,900,Furniture,5
+Dining Table,700,Furniture,8
+Bed Frame,850,Furniture,6
+Mattress,500,Furniture,10
+Curtains,80,Home Decor,20
+Wall Clock,50,Home Decor,25
+Photo Frame,30,Home Decor,35
+Vase,40,Home Decor,15
+Table Lamp,60,Home Decor,20
+Floor Lamp,90,Home Decor,12
+Paintings,120,Home Decor,10
+Alarm Clock,40,Electronics,30
+Smart Doorbell,150,Security,12
+Surveillance Kit,500,Security,8
+First Aid Kit,50,Safety,40
+Baby Monitor,180,Electronics,10
+Electric Toothbrush,70,Personal Care,30
+Hair Dryer,90,Personal Care,20
+Shaver,110,Personal Care,15
+Massage Gun,250,Personal Care,8
+Steam Iron,80,Home Appliances,25
+Sewing Machine,300,Home Appliances,10
+Heater,200,Home Appliances,12
+Dehumidifier,350,Home Appliances,6
+Thermostat,180,Electronics,15
+Smart Lock,220,Security,10
+Walkie Talkie,100,Electronics,12
+RC Car,130,Toys,20
+Board Games,50,Toys,30
+Building Blocks,40,Toys,35
+Dollhouse,120,Toys,15
+Remote Control Drone,400,Toys,8
+Toy Train,80,Toys,25
+Jigsaw Puzzle,30,Toys,50
+Gaming Mouse,80,Electronics,25
+Mechanical Keyboard,150,Electronics,15
+Graphics Tablet,250,Electronics,12
+Drawing Tablet,350,Electronics,10
+Document Scanner,400,Electronics,8
+Paper Shredder,180,Electronics,12
+Laminator,150,Electronics,15
+Label Printer,200,Electronics,10
