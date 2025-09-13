@@ -39,6 +39,14 @@ A robust and scalable inventory management system designed for warehouse operati
 
 ## 📤📥 Export / Import
 
+## Credentials
+- username : harsh
+- password : harsh
+
+- username : user
+- password : user
+
+
 - Support for importing and exporting product and stock data via **Excel** and **CSV**
 
 ---
