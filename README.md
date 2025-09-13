@@ -26,6 +26,8 @@ A robust and scalable inventory management system designed for warehouse operati
 
 ## 📈 Reports & Analytics
 
+
+
 - **Stock Movement History**
   - Full audit trail of inventory changes
 - **Inventory Valuation**
@@ -49,5 +51,4 @@ A robust and scalable inventory management system designed for warehouse operati
 
 - Support for importing and exporting product and stock data via **Excel** and **CSV**
 
----
-
+--> use a Locally for better experience
