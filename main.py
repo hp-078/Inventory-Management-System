@@ -9,6 +9,8 @@ from reportlab.lib import colors
 from reportlab.lib.units import inch
 from reportlab.platypus import SimpleDocTemplate, Table, TableStyle
 from sklearn.linear_model import LinearRegression
+import matplotlib
+matplotlib.use('Agg')  # Use non-interactive backend for Render
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -443,4 +445,7 @@ with iface:
         predict_output = gr.Image(label="Sales Prediction")
         predict_button.click(predict_sales, inputs=[predict_product_name, predict_periods], outputs=predict_output)
 
-iface.launch(share=True)
+# For Render deployment
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 7860))
+    iface.launch(server_name="0.0.0.0", server_port=port, share=False)
