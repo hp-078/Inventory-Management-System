@@ -42,9 +42,11 @@ A robust and scalable inventory management system designed for warehouse operati
 ## 📤📥 Export / Import
 
 ## Credentials
+**For a Admin login**
 - username : harsh
 - password : harsh
 
+**For a user login**
 - username : user
 - password : user
 
